@@ -1,6 +1,6 @@
 FROM jenkins/jenkins:lts
 
-LABEL maintener "gallegoj@gmail.com"
+LABEL maintener="gallegoj@gmail.com"
 
 USER root
 
